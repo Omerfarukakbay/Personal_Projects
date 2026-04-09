@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Salary Prediction with ML</title>
+</head>
+<body>
+    <h1>Salary Prediction</h1>
+    <form action="/predict" method="post">
+        <label>
+            Experience:
+            <input type="text" name="Experience" required>
+        </label>
+        <br><br>
+        <label>
+            Exam:
+            <input type="text" name="Exam" required>
+        </label>
+        <br><br>
+        <label>
+            Interwiev:
+            <input type="text" name="Interwiev" required>
+        </label>
+        <br><br>
+
+        <button type="submit">Predict</button>
+        <button type="reset">Delete</button>
+        <br><br>
+
+        {% if tahmin %}
+            <div style="padding: 1rem; background-color: #f0f0f0; border-radius: 5px; max-width: 300px;">
+                {{ tahmin }}
+            </div>
+        {% endif %}
+    </form>
+</body>
+</html>
