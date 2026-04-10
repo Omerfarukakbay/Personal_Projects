@@ -34,9 +34,13 @@ A curated collection of my personal projects spanning Data Science, AI, Electron
 | 20 | [Datathon AI Competition](./Data%20Science%20and%20AI/Machine%20Learning%20Projects/20%20-%20Datathon%20AI%20Competition) | Datathon AI qualification round solution |
 | 21 | [Computer Vision - EuroSAT Classification](./Data%20Science%20and%20AI/Machine%20Learning%20Projects/21%20-%20Computer%20Vision%20-%20EuroSAT%20Classification) | EuroSAT satellite image classification with deep learning |
 
-#### [Neural Network Project](./Data%20Science%20and%20AI/Neural%20Network%20Project)
+#### Neural Network Project
 
-*Coming soon*
+| # | Project | Description |
+|---|---------|-------------|
+| 1 | [Two Layer Neural Network from Scratch](./Data%20Science%20and%20AI/Neural%20Network%20Project/01%20-%20Two%20Layer%20Neural%20Network%20from%20Scratch) | Building a two-layer neural network from scratch (cs231n-based) |
+| 2 | [Fully Connected Networks and Dropout](./Data%20Science%20and%20AI/Neural%20Network%20Project/02%20-%20Fully%20Connected%20Networks%20and%20Dropout) | Deep fully connected networks with dropout regularization |
+| 3 | [Convolutional Neural Networks](./Data%20Science%20and%20AI/Neural%20Network%20Project/03%20-%20Convolutional%20Neural%20Networks) | CNN implementations with PyTorch and TensorFlow |
 
 #### [Graduation Project](./Data%20Science%20and%20AI/Graduation%20Project)
 
