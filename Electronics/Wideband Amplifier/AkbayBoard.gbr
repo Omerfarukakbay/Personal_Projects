@@ -1,0 +1,21 @@
+G04 DipTrace 5.1.0.3*
+G04 AkbayBoard.gbr*
+%MOIN*%
+G04 #@! TF.FileFunction,Profile*
+G04 #@! TF.Part,Single*
+%ADD10C,0.005*%
+%FSLAX26Y26*%
+G04*
+G70*
+G90*
+G75*
+G01*
+G04 BoardOutline*
+%LPD*%
+X-4837500Y4150000D2*
+G54D10*
+X-2637500D1*
+Y6350000D1*
+X-4837500D1*
+Y4150000D1*
+M02*
