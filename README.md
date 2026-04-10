@@ -32,6 +32,7 @@ A curated collection of my personal projects spanning Data Science, AI, Electron
 | 18 | [Loan Prediction Classification](./Data%20Science%20and%20AI/Machine%20Learning%20Projects/18%20-%20Loan%20Prediction%20Classification) | Loan approval prediction using classification |
 | 19 | [DAAD Scholarship Web Scraper](./Data%20Science%20and%20AI/Machine%20Learning%20Projects/19%20-%20DAAD%20Scholarship%20Web%20Scraper) | Web scraper for DAAD scholarship listings |
 | 20 | [Datathon AI Competition](./Data%20Science%20and%20AI/Machine%20Learning%20Projects/20%20-%20Datathon%20AI%20Competition) | Datathon AI qualification round solution |
+| 21 | [Computer Vision - EuroSAT Classification](./Data%20Science%20and%20AI/Machine%20Learning%20Projects/21%20-%20Computer%20Vision%20-%20EuroSAT%20Classification) | EuroSAT satellite image classification with deep learning |
 
 #### [Neural Network Project](./Data%20Science%20and%20AI/Neural%20Network%20Project)
 
