@@ -1,0 +1,12 @@
+# Vivado / xsim outputs (recreate with scripts\run.bat create)
+build/
+.Xil/
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.vcd
+*.backup.*
+xsim.dir/
+__pycache__/
