@@ -75,6 +75,7 @@ Team of six · Academic supervisor: Dr. Vakur B. Ertürk · Industry mentor: Aks
 | Project | What it covers |
 |---|---|
 | [FFT Audio Spectrum Analyzer](./Embedded%20Systems/FFT%20Audio%20Spectrum%20Analyzer) | Real-time audio spectrum analysis on a microcontroller — sampling, FFT, live display |
+| [UART Echo on Basys 3 FPGA](./Embedded%20Systems/UART%20Echo%20on%20Basys%203%20FPGA) | Verilog UART (115200 8N1) with RX/TX FIFOs on an Artix-7 — FSMD receiver/transmitter, self-checking xsim testbench, scripted Vivado flow, verified on hardware |
 
 ### ⚡ [Electronics](./Electronics)
 
@@ -90,11 +91,11 @@ Professional certifications and course completions.
 
 ## 🧰 Tech
 
-**Languages** Python · VHDL
+**Languages** Python · VHDL · Verilog
 **ML / AI** PyTorch · TensorFlow · Transformers · CNNs · OpenCV · scikit-learn · PySpark
 **Embedded & edge** Rockchip RK3568 (DMA, RGA acceleration) · ARM Cortex-M0 · FFT/DSP on MCUs · Linux
 **Electronics** KiCad · DipTrace · LTSpice · PCB layout · power electronics
-**Digital design** VHDL on Digilent Basys 3 *(coursework)*
+**Digital design** Verilog & VHDL on Digilent Basys 3 (Artix-7) · Vivado (synthesis, implementation, xsim)
 **Tools** Git · Jupyter · VS Code · Flask · Streamlit · AWS
 
 ---
